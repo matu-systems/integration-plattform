@@ -1,0 +1,5 @@
+*.[oa]
+*~
+# ignore all files in the target/ directory
+target/
+init-git-repo.sh
